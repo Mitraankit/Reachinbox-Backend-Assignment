@@ -24,53 +24,43 @@ A promise-based HTTP client used for making API calls in React applications, ens
 
 ## Deployment
 
-The application is deployed on render and can be accessed [here](...).
-
+The application is deployed on render and can be accessed [here](https://reachinbox-assignment-back.netlify.app/).
 
 ## Home Page
 
-![Home Page](...)
+![Home Page](Screenshot%202025-02-24%20at%201.07.01 AM.png)
 
 # Setup Guide <br/>
 
-   <h2>Installation</h2>
+<h2>Installation</h2>
 
 ### Frontend Setup
 
-# Navigate to the project directory
-
+1.Navigate to the project directory
 cd reachinbox-assignment
 
-# Move into the frontend folder
-
+2.Move into the frontend folder
 cd frontend
 
-# Install dependencies
-
+3.Install dependencies
 npm install
 
-# Start the frontend server
-
+4.Start the frontend server
 npm run start
 
-# Open in browser
-
+5.Open in browser
 http://localhost:3000
 
 ### Run Backend
 
-# Navigate to the project directory
-
+1.Navigate to the project directory
 cd reachinbox-assignment
 
-# Install dependencies
-
+2.Install dependencies
 npm install
 
-# Start the backend server
-
+3.Start the backend server
 npm run server
 
-# Backend runs at:
-
-http://localhost:8080
+4.Backend runs at:
+http://localhost:8000

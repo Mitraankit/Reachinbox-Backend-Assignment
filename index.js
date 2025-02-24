@@ -114,7 +114,7 @@ app.post("/user/interest",async(req,res)=>{
 app.listen(process.env.PORT, async()=>{
     try{
         await connection
-        console.log("Server is running")
+        console.log("Server is running on port",process.env.PORT)
     }catch(err){
         console.log(err)
     }

@@ -16,7 +16,7 @@ const Navbar = () => {
         </div>
         <div className={styles.userSection}>
             { name ? <Link style={{color:"white"}}>Hello {name.slice(1,name.length-1)}!</Link>
-               : <Link to="https://reachinbox-assignment.onrender.com/auth/google/">Log in</Link>
+               : <Link to="https://reachinbox-assignment-back.netlify.app/auth/google">Log in</Link>
             }
             {
                 name ? <button>Logout</button> :<button>Get Started Now</button>
@@ -26,3 +26,4 @@ const Navbar = () => {
 }
 
 export { Navbar }
+
