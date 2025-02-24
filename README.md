@@ -28,7 +28,7 @@ The application is deployed on render and can be accessed [here](https://reachin
 
 ## Home Page
 
-![Home Page](Screenshot%202025-02-24%20at%201.07.01 AM.png)
+![Home Page](Screenshot%202025-02-24%20at%2010.35.41 AM.png)
 
 # Setup Guide <br/>
 
