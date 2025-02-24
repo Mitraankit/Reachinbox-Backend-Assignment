@@ -24,12 +24,12 @@ A promise-based HTTP client used for making API calls in React applications, ens
 
 ## Deployment
 
-The application is deployed on render and can be accessed [here](https://reachinbox-assignment.onrender.com/).
+The application is deployed on render and can be accessed [here](...).
 
 
 ## Home Page
 
-![Home Page](/Users/ankitkumar/Downloads/Reachinbox-Backend-Assignment/Screenshot 2025-02-24 at 1.07.01 AM.png)
+![Home Page](...)
 
 # Setup Guide <br/>
 
